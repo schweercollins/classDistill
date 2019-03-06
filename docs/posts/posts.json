@@ -13,5 +13,20 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-03-06T10:32:26-08:00"
+  },
+  {
+    "path": "posts/2019-03-06-my-final-project-process/",
+    "title": "My Final Project Process",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2019-03-06",
+    "categories": [],
+    "preview": "posts/2019-03-06-my-final-project-process/my-final-project-process_files/figure-html5/plot1-1.png",
+    "last_modified": "2019-03-06T10:51:14-08:00"
   }
 ]
