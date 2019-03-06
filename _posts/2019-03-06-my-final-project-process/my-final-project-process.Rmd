@@ -9,6 +9,8 @@ date: 03-06-2019
 output:
   distill::distill_article:
     self_contained: false
+categories: 
+  -dataviz
 ---
 
 ```{r setup, include=FALSE}

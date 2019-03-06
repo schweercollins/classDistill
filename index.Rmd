@@ -2,4 +2,7 @@
 title: "My Final Project"
 site: distill::distill_website
 listing: posts
+categories: 
+  -class
+  -dataviz
 ---
